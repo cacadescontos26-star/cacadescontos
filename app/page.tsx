@@ -13,7 +13,7 @@ export default function Home() {
 >
   <div>
     <div className="button-title">
-      🚀 ENTRAR NO GRUPO VIP
+      🚀 ENTRAR NO GRUPO WHATSAPP
     </div>
 
     <div className="button-subtitle">
