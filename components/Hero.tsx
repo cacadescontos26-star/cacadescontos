@@ -17,7 +17,6 @@ export default function Hero() {
 
       <ul className="benefits">
         <li>✅ Cupons de desconto</li>
-        <li>✅ Promoções exclusivas</li>
         <li>✅ Produtos com até 80% de desconto</li>
         <li>✅ Ofertas por tempo limitado</li>
         <li>✅ Melhores achadinhos do Mercado Livre</li>
