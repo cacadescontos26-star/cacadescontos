@@ -10,7 +10,7 @@ export default function Home() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        💬 Grupo VIP WhatsApp
+        💬 ENTRAR NO GRUPO WhatsApp
       </a>
 
       <a
