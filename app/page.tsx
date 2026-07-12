@@ -5,13 +5,22 @@ export default function Home() {
     <main>
       <Hero />
 
-      <a
-        href="https://chat.whatsapp.com/J8DBC730fq09HhDHdhk2ZR?mode=wwt"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        💬 ENTRAR NO GRUPO WhatsApp
-      </a>
+<a
+  href="https://chat.whatsapp.com/J8DBC730fq09HhDHdhk2ZR?mode=wwt"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="whatsapp-button"
+>
+  <div>
+    <div className="button-title">
+      🚀 ENTRAR NO GRUPO VIP
+    </div>
+
+    <div className="button-subtitle">
+      Receba cupons e ofertas todos os dias
+    </div>
+  </div>
+</a>
 
       <a
         href="https://www.instagram.com/cacadescontos.oficial1/"
